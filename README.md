@@ -6,3 +6,9 @@ ABOUT THE DATASET
 
 We will perform data analysis on two types of rider data from Uber. The first dataset contains information about the rides taken by one particular user, and the second contains similar details about the rides taken by Uber users in two cities.
 This Kaggle Uber dataset contains information about 1155 rides of a single Uber user in 2016. The features include the trip date, source, destination, distance traveled, and purpose of the trip. This dataset is a good starting point for performing basic EDA. Based on this, we might also be able to generate some insights by relating the data to real-world events and user habits.
+
+
+
+
+
+The project can be run in google colabs with .ipynb format
